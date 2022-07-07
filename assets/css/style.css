@@ -97,7 +97,7 @@
 }
 
 .awards-card {
-  width: 260px;
+  width: 275px;
   height: auto;
   background: #ffebec;
   box-shadow: 0px 4px 16px #ffebec;
@@ -113,6 +113,9 @@
 }
 
 /* TRAINING */
+/* #training {
+} */
+
 /* .training-img {
   height: 50%;
   z-index: 1;
@@ -168,7 +171,7 @@
   border-radius: 10rem 10rem 0 0;
 }
 
-.img-directors {
+.directors-img {
   width: 200px;
 }
 

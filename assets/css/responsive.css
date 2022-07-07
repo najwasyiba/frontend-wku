@@ -28,10 +28,11 @@
     width: 80%;
   }
 
-  /* .training-img {
-    width: 70%;
+  .training-img {
+    width: 95% !important;
     height: auto;
-  } */
+    padding-top: 30px;
+  }
 }
 
 /* Small devices (portrait tablets and large phones, 576px and up) */
